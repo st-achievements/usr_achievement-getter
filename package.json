@@ -20,7 +20,7 @@
     "test:watch": "vitest -w"
   },
   "dependencies": {
-    "@google-cloud/functions-framework": "~3.4.2",
+    "@google-cloud/functions-framework": "~3.4.4",
     "@st-achievements/core": "~2.2.2",
     "@st-achievements/database": "~2.1.0",
     "@st-api/core": "~6.0.7",
