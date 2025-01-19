@@ -13,7 +13,7 @@ const app = StFirebaseApp.create({
   controllers: [GetAchievementController, GetAchievementsController],
   providers: [AchievementService],
   cors: {
-    origin: ['http://localhost'],
+    origin: ['http://localhost:4200'],
   },
 }).withHttpHandler();
 
