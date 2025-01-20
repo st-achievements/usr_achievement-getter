@@ -12,9 +12,6 @@ const app = StFirebaseApp.create({
   }),
   controllers: [GetAchievementController, GetAchievementsController],
   providers: [AchievementService],
-  cors: {
-    origin: ['http://localhost:4200'],
-  },
 }).withHttpHandler();
 
 export const usr_achievement = {
