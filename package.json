@@ -24,7 +24,7 @@
     "@st-achievements/core": "~2.2.2",
     "@st-achievements/database": "~2.1.0",
     "@st-api/core": "~6.1.0",
-    "@st-api/firebase": "~6.2.1",
+    "@st-api/firebase": "~6.2.2",
     "@stlmpp/di": "~0.4.0",
     "drizzle-orm": "~0.36.4",
     "firebase": "~11.2.0",
