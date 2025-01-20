@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "@google-cloud/functions-framework": "~3.4.5",
-    "@st-achievements/core": "~2.3.0",
+    "@st-achievements/core": "~2.3.1",
     "@st-achievements/database": "~2.1.0",
     "@st-api/core": "~6.1.0",
-    "@st-api/firebase": "~6.2.2",
+    "@st-api/firebase": "~6.2.3",
     "@stlmpp/di": "~0.4.0",
     "drizzle-orm": "~0.36.4",
     "firebase": "~11.2.0",
